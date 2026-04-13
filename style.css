@@ -4,5 +4,5 @@ html, body{
   grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 .divs{
-  display: block;
+  display: inline;
 }
