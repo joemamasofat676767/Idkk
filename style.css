@@ -1,8 +1,8 @@
 html, body{
-  display: grid;
+  display: inline-grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 .divs{
-  display: inline; !important
+  display: inline;
 }
