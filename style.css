@@ -9,3 +9,6 @@ html, body{
 #FoodText, #GiftText{
   background: orange;
 }
+#IncomeText{
+  background: lime;
+}
