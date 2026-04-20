@@ -11,14 +11,17 @@ html, body{
   width: 100%;
   height: 100%;
   text-align: center;
+  font-family: sans-serif;
 }
 #IncomeText{
   background: lime;
   width: 100%;
   height: 100%;
   text-align: center;
+  font-family: sans-serif;
 }
 #BalanceButton{
   background: yellow;
   color: black;
+  font-family: sans-serif;
 }
