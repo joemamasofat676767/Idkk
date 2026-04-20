@@ -9,12 +9,12 @@ html, body{
 #FoodText, #GiftText{
   background: orange;
   width: 100%;
-  height: 25%;
+  height: 100%;
   text-align: center;
 }
 #IncomeText{
   background: lime;
   width: 100%;
-  height: 25%;
+  height: 100%;
   text-align: center;
 }
