@@ -1,6 +1,6 @@
 html, body{
   display: grid;
-  5template-columns: 1fr 1fr;
+  template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   place-items: center;
   justify-items: center;
