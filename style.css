@@ -13,6 +13,7 @@ html, body{
   padding-bottom: 50%;
   text-align: center;
   font-family: sans-serif, Arial;
+  place-items: center;
 }
 #IncomeText{
   background: lime;
@@ -21,6 +22,7 @@ html, body{
   padding-bottom: 50%;
   text-align: center;
   font-family: sans-serif, Arial;
+  place-items: center;
 }
 #BalanceButton{
   background: yellow;
