@@ -1,6 +1,6 @@
 html, body{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  5template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
   place-items: center;
   justify-items: center;
@@ -9,16 +9,16 @@ html, body{
 #FoodText, #GiftText{
   background: orange;
   width: 100%;
-  padding-top: 100%;
-  padding-bottom: 100%;
+  padding-top: 50%;
+  padding-bottom: 50%;
   text-align: center;
   font-family: sans-serif, Arial;
 }
 #IncomeText{
   background: lime;
   width: 100%;
-  padding-top: 100%;
-  padding-bottom: 100%;
+  padding-top: 50%;
+  padding-bottom: 50%;
   text-align: center;
   font-family: sans-serif, Arial;
 }
