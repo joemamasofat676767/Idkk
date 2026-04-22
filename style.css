@@ -7,7 +7,7 @@ html, body{
   align-items: center;
 }
 #FoodText, #GiftText{
-  background: orange;
+  background: red;
   width: 100%;
   padding-top: 2em;
   padding-bottom: 2em;
