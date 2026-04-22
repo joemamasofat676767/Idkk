@@ -9,16 +9,16 @@ html, body{
 #FoodText, #GiftText{
   background: orange;
   width: 100%;
-  padding-top: 50%;
-  padding-bottom: 50%;
+  padding-top: 2em;
+  padding-bottom: 2em;
   text-align: center;
   font-family: sans-serif, Arial;
 }
 #IncomeText{
   background: lime;
   width: 100%;
-  padding-top: 50%;
-  padding-bottom: 50%;
+  padding-top: 2em;
+  padding-bottom: 2em;
   text-align: center;
   font-family: sans-serif, Arial;
 }
