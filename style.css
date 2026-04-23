@@ -23,7 +23,7 @@ html, body{
   height: 100%;
   width: 100%;
 }
-#income, #FoodPrice, GiftPrice{
+#income, #FoodPrice, #GiftPrice{
   width: 100%;
   height: 100%;
 }
