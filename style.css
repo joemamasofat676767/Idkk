@@ -2,6 +2,7 @@ html, body{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
+  height: 100%;
 }
 #FoodText, #GiftText{
   background: orange;
@@ -23,8 +24,9 @@ html, body{
   width: 100%;
 }
 #income, #FoodPrice, #GiftPrice{
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
 }
 #BalanceText{
   width: 100%;
